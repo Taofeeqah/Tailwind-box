@@ -1,2 +1,2 @@
 # Tailwind-box
-Buildind a responsive page using tailwind
+Building a responsive web page using tailwindCSS
